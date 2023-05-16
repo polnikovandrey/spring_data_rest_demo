@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mcfly</groupId>
-	<artifactId>crud_rest_demo</artifactId>
+	<artifactId>crud_spring_data_jpa_rest_demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>crud_rest_demo</name>
 	<description>Demo project for Spring Boot</description>
